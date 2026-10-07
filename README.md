@@ -43,7 +43,7 @@ I build practical software products with modern web technologies, focused on **u
 
 ## 🔗 Find Me Online
 
-- 🌐 **Portfolio:** [haritha-portfolio](https://haritha-portfolio-pixw3jrs7-harithakongi-3106s-projects.vercel.app/)
+- 🌐 **Portfolio:** [harithakongi.me](https://harithakongi.me/)
 - 💼 **LinkedIn:** [Haritha Kongi](https://www.linkedin.com/in/haritha-kongi/)
 - 🧠 **LeetCode:** [Haritha_Kongi](https://leetcode.com/u/Haritha_Kongi/)
 - 🍳 **CodeChef:** [haritha_kongi](https://www.codechef.com/users/haritha_kongi)
