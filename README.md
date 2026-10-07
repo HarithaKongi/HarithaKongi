@@ -1,62 +1,56 @@
 # Hi, I'm Haritha Kongi 👋
 
-### Final-year CSE Student | Full-Stack Developer
+### Final-Year B.Tech CSE Student · Full-Stack Developer
 
-I build practical web applications that solve real-world problems, with a focus on clean user experiences, reliable backend systems, and modern web technologies.
+I build practical software products with modern web technologies, focused on **useful interfaces, real-world workflows, and deployable applications**.
+
+- 🎓 Final-year Computer Science & Engineering student
+- 💻 Full-stack development with React, Next.js, Java, JavaScript and modern backend services
+- 🧩 Interested in product engineering, backend systems and software development
+- 🚀 Building and deploying projects from idea → implementation → production
+- 🤝 Open to software development and internship opportunities
+
+## 🚀 Featured Projects
+
+| Project | What I Built | Stack |
+| --- | --- | --- |
+| **[AirAware](https://github.com/HarithaKongi/AirAware)** | Real-time air-quality experience with maps, location-based data and user features | Next.js · Supabase · Open-Meteo · Leaflet |
+| **[RoadEcho](https://github.com/HarithaKongi/RoadEcho)** | Browser-based 3D driving experience with recorded routes and Echo replay mechanics | JavaScript · 3D Web · Web APIs |
+| **[Waste2Worth](https://github.com/HarithaKongi/Waste2Worth)** | Sustainability-focused web platform designed as a production-style MVP | Next.js · Prisma · PostgreSQL |
+| **[CivicFix](https://github.com/HarithaKongi/CivicFix)** | Civic problem reporting and community-focused digital experience | Web · Full Stack |
+| **[Java-LifePilot](https://github.com/HarithaKongi/Java-LifePilot)** | Java-based productivity/life-planning application | Java |
+| **[SkillBridgeGlobal](https://github.com/HarithaKongi/SkillBridgeGlobal)** | Goal-oriented platform concept connecting users with structured growth paths | Next.js · React |
+
+> More projects are available across my repositories, including AI, data, productivity and experimentation projects.
+
+## 🛠️ Technical Skills
+
+**Languages:** Java · JavaScript · C · HTML · CSS
+
+**Frontend:** React · Next.js · Tailwind CSS
+
+**Backend & Data:** Supabase · Firebase · Prisma · PostgreSQL
+
+**Tools & Platforms:** Git · GitHub · VS Code · Vercel · Cloudflare
+
+## 📈 What I Focus On
+
+- Building complete applications instead of isolated demos
+- Designing clean, responsive and practical user experiences
+- Connecting frontend interfaces with real backend systems and databases
+- Deploying projects and making them accessible as working products
+- Improving code quality, documentation and software engineering fundamentals
+
+## 🔗 Find Me Online
+
+- 🌐 **Portfolio:** [haritha-portfolio](https://haritha-portfolio-pixw3jrs7-harithakongi-3106s-projects.vercel.app/)
+- 💼 **LinkedIn:** [Haritha Kongi](https://www.linkedin.com/in/haritha-kongi/)
+- 🧠 **LeetCode:** [Haritha_Kongi](https://leetcode.com/u/Haritha_Kongi/)
+- 🍳 **CodeChef:** [haritha_kongi](https://www.codechef.com/users/haritha_kongi)
+- 🐙 **GitHub:** [HarithaKongi](https://github.com/HarithaKongi)
+
+---
+
+### Building. Deploying. Improving. 🚀
 
 **Designed and Developed by Haritha Kongi**
-
-## 🚀 About Me
-
-- 🎓 Final-year B.Tech Computer Science & Engineering student
-- 💻 Interested in Full-Stack Web Development
-- 🔨 Building practical projects with React, JavaScript, Firebase, Supabase and modern web technologies
-- 🌱 Currently improving my skills in scalable application development, backend systems and software engineering
-- 📌 Open to software development and internship opportunities
-
-## 🛠️ Tech Stack
-
-**Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS  
-**Backend & Database:** Firebase, Supabase  
-**Languages:** JavaScript, Java, C  
-**Tools:** Git, GitHub, VS Code, Vercel
-
-## 📌 Featured Projects
-
-### Faculty Selection Portal
-A full-stack faculty selection platform designed for managing student selections, faculty, subjects, selection windows and administrative workflows.
-
-### StudentHub
-A student productivity companion for planning tasks, focused study sessions, resources and progress tracking using Firebase.
-
-### Resource Allocator
-A web application for managing and allocating resources through a structured, user-friendly interface.
-
-### ReelMindAI
-An AI-focused project exploring practical applications of artificial intelligence.
-
-### Cosmetic Insights
-A data-focused project exploring cosmetics trends and insights.
-
-## 📊 GitHub
-
-I use GitHub to build, document and continuously improve my projects.
-
-[![GitHub](https://img.shields.io/badge/GitHub-HarithaKongi-181717?style=for-the-badge&logo=github)](https://github.com/HarithaKongi)
-
-## 📫 Connect
-
-- **GitHub:** [HarithaKongi](https://github.com/HarithaKongi)
-- **Email:** harithakongi8216@gmail.com
-
----
-
-## 👤 Author
-
-**Haritha Kongi**
-
-GitHub: [github.com/HarithaKongi](https://github.com/HarithaKongi)
-
----
-
-⭐ Thanks for visiting my profile!
