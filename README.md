@@ -1,77 +1,113 @@
+<!--
+Haritha Kongi — GitHub profile
+Design idea: a compact engineering field note, not a résumé template.
+Keep claims evidence-based and update the "In the workshop" section as priorities change.
+-->
+
 # Haritha Kongi
 
-**Full-Stack Developer · Computer Science & Engineering**
+**I build software, learn from the rough edges, and make the next version better.**
 
-I turn ideas into usable software. My work spans full-stack web applications, database-backed workflows, deployment, and experiments with practical AI features. I care about making projects understandable, useful, and reliable—not just making a demo look good.
+Final-year B.Tech Computer Science & Engineering student at **RGMCET** · Expected graduation: **2027**
 
-**[Portfolio](https://harithakongi.me/)** · **[LinkedIn](https://www.linkedin.com/in/haritha-kongi/)** · **[Email](mailto:harithakongi@gmail.com)** · **[LeetCode](https://leetcode.com/u/Haritha_Kongi/)**
+I’m interested in the space where product thinking meets implementation: a clear user problem, a thoughtful interface, dependable data flow, and a deployed application someone can actually try.
 
----
-
-## Selected work
-
-### 01 — Faculty Selection Portal
-A full-stack portal built to support faculty-selection workflows, with student and administrator experiences, role-aware access, and database-backed selection data.
-
-**Built with:** React · TypeScript · Supabase  
-**Repository:** [FS-PORTAL-BY-HK](https://github.com/HarithaKongi/FS-PORTAL-BY-HK)
-
-### 02 — AirAware
-An air-quality project focused on location-based information, map exploration, and saved places, using external air-quality data.
-
-**Built with:** Next.js · Supabase · Open-Meteo · Leaflet  
-**Repository:** [AirAware](https://github.com/HarithaKongi/AirAware)
-
-### 03 — Waste2Worth
-A sustainability-focused application developed with a modern web stack and a relational data layer.
-
-**Built with:** Next.js · Prisma · PostgreSQL  
-**Repository:** [Waste2Worth](https://github.com/HarithaKongi/Waste2Worth)
-
-### 04 — DeployLens
-A project exploring the practical side of deploying and delivering web applications.
-
-**Repository:** [DeployLens](https://github.com/HarithaKongi/DeployLens)
-
-### 05 — Java-LifePilot
-A Java project focused on productivity and personal planning.
-
-**Repository:** [Java-LifePilot](https://github.com/HarithaKongi/Java-LifePilot)
-
-[Explore all repositories →](https://github.com/HarithaKongi?tab=repositories)
+[Portfolio ↗](https://harithakongi.me/) · [Connect on LinkedIn ↗](https://www.linkedin.com/in/haritha-kongi/) · [Email me ↗](mailto:harithakongi@gmail.com)
 
 ---
 
-## Toolkit
+## The workbench
 
-| Area | Technologies |
+Rather than listing every repository, here are a few projects that show the kinds of problems I like exploring.
+
+<details open>
+<summary><strong>01 · Workflow software</strong> — Faculty Selection Portal</summary>
+
+A full-stack portal for faculty-selection workflows, bringing student-facing selection and administrative operations into one application.
+
+- **What it explores:** role-aware experiences, data-backed workflows, validation, and real-time updates
+- **Built with:** React · TypeScript · Supabase
+- **Code:** [FS-PORTAL-BY-HK ↗](https://github.com/HarithaKongi/FS-PORTAL-BY-HK)
+- **Try it:** [Live portal ↗](https://rgmcet-faculty-selection-portal.vercel.app/)
+
+</details>
+
+<details>
+<summary><strong>02 · Environmental data</strong> — AirAware</summary>
+
+An air-quality experience focused on location-based information, map exploration, and saved locations.
+
+- **What it explores:** external data integration, map-based UI, and user-specific saved data
+- **Built with:** Next.js · Supabase · Open-Meteo · Leaflet
+- **Code:** [AirAware ↗](https://github.com/HarithaKongi/AirAware)
+
+</details>
+
+<details>
+<summary><strong>03 · Sustainability</strong> — Waste2Worth</summary>
+
+A sustainability-focused web application developed with a modern full-stack architecture.
+
+- **What it explores:** application structure, database-backed features, and shipping a usable web experience
+- **Built with:** Next.js · Prisma · PostgreSQL
+- **Code:** [Waste2Worth ↗](https://github.com/HarithaKongi/Waste2Worth)
+- **Live project:** [waste2worth-beta.vercel.app ↗](https://waste2worth-beta.vercel.app/)
+
+</details>
+
+<details>
+<summary><strong>04 · Delivery and deployment</strong> — DeployLens</summary>
+
+A project shaped around exploring the practical side of delivering web applications.
+
+- **What it explores:** deployment workflows and production-oriented project setup
+- **Code:** [DeployLens ↗](https://github.com/HarithaKongi/DeployLens)
+
+</details>
+
+<details>
+<summary><strong>05 · Java and personal productivity</strong> — Java-LifePilot</summary>
+
+A Java-based productivity and life-planning project.
+
+- **What it explores:** building a focused application with Java
+- **Code:** [Java-LifePilot ↗](https://github.com/HarithaKongi/Java-LifePilot)
+- **Live project:** [Open application ↗](https://java-lifepilot.harithakongi8216.workers.dev/)
+
+</details>
+
+**Browse the full workshop:** [all repositories ↗](https://github.com/HarithaKongi?tab=repositories)
+
+---
+
+## My tools, grouped by the job
+
+| When I need to… | Tools I work with |
 | --- | --- |
-| Languages | Java · JavaScript · TypeScript · Python · C · SQL |
-| Frontend | React · Next.js · HTML · CSS · Tailwind CSS |
-| Data & backend services | Supabase · Firebase · PostgreSQL · MySQL · Prisma |
-| Development & deployment | Git · GitHub · VS Code · Vercel · Cloudflare |
-| Computer science | Data Structures & Algorithms · OOP · DBMS · Operating Systems |
+| Build interfaces | React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS |
+| Work with application data | Supabase · Firebase · PostgreSQL · MySQL · Prisma |
+| Write and reason about code | Java · Python · C · SQL · Data Structures & Algorithms · OOP |
+| Ship and maintain projects | Git · GitHub · VS Code · Vercel · Cloudflare |
 
-## Education
+## In the workshop
 
-**B.Tech, Computer Science and Engineering**  
-Rajeev Gandhi Memorial College of Engineering and Technology (RGMCET)  
-Expected graduation: **2027**
+The recurring themes in my work are:
 
-## Currently focused on
+- **Connect the pieces:** bring interfaces, APIs, authentication, and databases together into a coherent application.
+- **Make the workflow understandable:** build for the person using the software, not just for the screenshot.
+- **Learn by shipping:** deploy projects, find the rough edges, and improve them.
+- **Keep strengthening the fundamentals:** algorithms, database concepts, operating systems, and software design.
 
-- Building complete applications with thoughtful frontend and backend integration
-- Improving software design, database workflows, testing, and deployment practices
-- Strengthening data structures, algorithms, and core computer science fundamentals
-- Exploring useful ways to bring AI capabilities into real applications
+## What I value in a project
 
-## A little about how I work
+A project is more than a stack list. I want to be able to explain the problem, why I chose an approach, where the trade-offs are, and what I would improve next. That is the standard I’m working toward as I grow as an engineer.
 
-I learn by building, test ideas through working prototypes, and iterate when something can be clearer or more useful. I value practical problem-solving, readable code, and projects that can be explained from the problem they address to the decisions behind their implementation.
+## Open to
+
+Software engineering internships, entry-level opportunities, and collaborations where I can contribute, learn from feedback, and build something useful with others.
+
+**Best starting point:** [my portfolio](https://harithakongi.me/) · **Professional updates:** [LinkedIn](https://www.linkedin.com/in/haritha-kongi/) · **Direct contact:** [harithakongi@gmail.com](mailto:harithakongi@gmail.com)
 
 ---
 
-**Interested in software engineering opportunities or collaborating on a useful project?**  
-[Get in touch](mailto:harithakongi@gmail.com) · [View my portfolio](https://harithakongi.me/)
-
-<sub>Haritha Kongi · Nandyal, Andhra Pradesh, India</sub>
+<sub>Haritha Kongi · Computer Science & Engineering · Nandyal, Andhra Pradesh, India</sub>
