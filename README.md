@@ -1,56 +1,63 @@
-# Hi, I'm Haritha Kongi 👋
+# Haritha Kongi
 
-### Final-Year B.Tech CSE Student · Full-Stack Developer
+### Computer Science & Engineering · Full-Stack Developer
 
-I build practical software products with modern web technologies, focused on **useful interfaces, real-world workflows, and deployable applications**.
+I’m a final-year B.Tech CSE student at **Rajeev Gandhi Memorial College of Engineering and Technology (RGMCET)**, interested in building reliable, user-focused software. I enjoy taking ideas from concept to implementation—designing responsive interfaces, integrating backend services, working with databases, and deploying usable applications.
 
-- 🎓 Final-year Computer Science & Engineering student
-- 💻 Full-stack development with React, Next.js, Java, JavaScript and modern backend services
-- 🧩 Interested in product engineering, backend systems and software development
-- 🚀 Building and deploying projects from idea → implementation → production
-- 🤝 Open to software development and internship opportunities
+- **Focus areas:** Full-stack development, backend integration, and practical AI-powered applications
+- **Currently building:** Web products that solve real workflow and usability problems
+- **Engineering approach:** Understand the problem, build deliberately, test, document, and iterate
+- **Open to:** Software development internships, entry-level opportunities, and meaningful collaborations
 
-## 🚀 Featured Projects
-
-| Project | What I Built | Stack |
-| --- | --- | --- |
-| **[AirAware](https://github.com/HarithaKongi/AirAware)** | Real-time air-quality experience with maps, location-based data and user features | Next.js · Supabase · Open-Meteo · Leaflet |
-| **[RoadEcho](https://github.com/HarithaKongi/RoadEcho)** | Browser-based 3D driving experience with recorded routes and Echo replay mechanics | JavaScript · 3D Web · Web APIs |
-| **[Waste2Worth](https://github.com/HarithaKongi/Waste2Worth)** | Sustainability-focused web platform designed as a production-style MVP | Next.js · Prisma · PostgreSQL |
-| **[CivicFix](https://github.com/HarithaKongi/CivicFix)** | Civic problem reporting and community-focused digital experience | Web · Full Stack |
-| **[Java-LifePilot](https://github.com/HarithaKongi/Java-LifePilot)** | Java-based productivity/life-planning application | Java |
-| **[SkillBridgeGlobal](https://github.com/HarithaKongi/SkillBridgeGlobal)** | Goal-oriented platform concept connecting users with structured growth paths | Next.js · React |
-
-> More projects are available across my repositories, including AI, data, productivity and experimentation projects.
-
-## 🛠️ Technical Skills
-
-**Languages:** Java · JavaScript · C · HTML · CSS
-
-**Frontend:** React · Next.js · Tailwind CSS
-
-**Backend & Data:** Supabase · Firebase · Prisma · PostgreSQL
-
-**Tools & Platforms:** Git · GitHub · VS Code · Vercel · Cloudflare
-
-## 📈 What I Focus On
-
-- Building complete applications instead of isolated demos
-- Designing clean, responsive and practical user experiences
-- Connecting frontend interfaces with real backend systems and databases
-- Deploying projects and making them accessible as working products
-- Improving code quality, documentation and software engineering fundamentals
-
-## 🔗 Find Me Online
-
-- 🌐 **Portfolio:** [harithakongi.me](https://harithakongi.me/)
-- 💼 **LinkedIn:** [Haritha Kongi](https://www.linkedin.com/in/haritha-kongi/)
-- 🧠 **LeetCode:** [Haritha_Kongi](https://leetcode.com/u/Haritha_Kongi/)
-- 🍳 **CodeChef:** [haritha_kongi](https://www.codechef.com/users/haritha_kongi)
-- 🐙 **GitHub:** [HarithaKongi](https://github.com/HarithaKongi)
+[Portfolio](https://harithakongi.me/) · [LinkedIn](https://www.linkedin.com/in/haritha-kongi/) · [Email](mailto:harithakongi@gmail.com) · [LeetCode](https://leetcode.com/u/Haritha_Kongi/) · [CodeChef](https://www.codechef.com/users/haritha_kongi/)
 
 ---
 
-### Building. Deploying. Improving. 🚀
+## Featured Projects
 
-**Designed and Developed by Haritha Kongi**
+| Project | Overview | Technologies |
+| --- | --- | --- |
+| [**AirAware**](https://github.com/HarithaKongi/AirAware) | Air-quality experience with location-based information, maps, and saved locations. | Next.js · Supabase · Open-Meteo · Leaflet |
+| [**RoadEcho**](https://github.com/HarithaKongi/RoadEcho) | Browser-based 3D driving concept featuring recorded movement and an Echo replay mechanic. | JavaScript · 3D Web · Web APIs |
+| [**Waste2Worth**](https://github.com/HarithaKongi/Waste2Worth) | Sustainability-focused web application built with a full-stack architecture. | Next.js · Prisma · PostgreSQL |
+| [**CivicFix**](https://github.com/HarithaKongi/CivicFix) | Civic problem-reporting concept focused on community issues and digital workflows. | Web Development · Full Stack |
+| [**Java-LifePilot**](https://github.com/HarithaKongi/Java-LifePilot) | Java application focused on productivity and personal planning. | Java |
+| [**SkillBridge Global**](https://github.com/HarithaKongi/SkillBridgeGlobal) | Goal-oriented platform concept for structured learning and growth. | React · Next.js |
+
+Explore [all repositories](https://github.com/HarithaKongi?tab=repositories) for more projects and experiments.
+
+## Technical Skills
+
+- **Languages:** Java, JavaScript, C, Python, SQL
+- **Frontend:** React, Next.js, HTML, CSS, TypeScript, Tailwind CSS
+- **Backend & data:** Supabase, Firebase, Prisma, PostgreSQL, MySQL
+- **Tools & deployment:** Git, GitHub, VS Code, Vercel, Cloudflare
+- **Foundations:** Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems
+
+## Education
+
+**B.Tech — Computer Science and Engineering**  
+Rajeev Gandhi Memorial College of Engineering and Technology (RGMCET)  
+Expected graduation: **2027**
+
+## What I’m Working Toward
+
+- Building maintainable applications with clear architecture and useful documentation
+- Strengthening problem-solving and core computer science fundamentals
+- Improving full-stack development, database design, and deployment practices
+- Learning to integrate AI capabilities into practical software products
+
+## Connect
+
+I’m happy to connect about software engineering, projects, internships, and collaborative learning.
+
+- **Portfolio:** [harithakongi.me](https://harithakongi.me/)
+- **LinkedIn:** [linkedin.com/in/haritha-kongi](https://www.linkedin.com/in/haritha-kongi/)
+- **Email:** [harithakongi@gmail.com](mailto:harithakongi@gmail.com)
+- **GitHub:** [@HarithaKongi](https://github.com/HarithaKongi)
+- **LeetCode:** [Haritha_Kongi](https://leetcode.com/u/Haritha_Kongi/)
+- **CodeChef:** [haritha_kongi](https://www.codechef.com/users/haritha_kongi/)
+
+---
+
+*Building thoughtfully. Learning continuously. Shipping useful software.*
