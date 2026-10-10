@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://harithakongi.me/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Portfolio" /></a>
   <a href="mailto:harithakongi@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/haritha-kongi/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/haritha-kongi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/HarithaKongi"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub" /></a>
 </p>
 
