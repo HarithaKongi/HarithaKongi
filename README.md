@@ -59,4 +59,4 @@ Interested in software engineering internships, entry-level opportunities, and c
 
 **Portfolio:** [harithakongi.me](https://harithakongi.me/) · **LinkedIn:** [Haritha Kongi](https://www.linkedin.com/in/haritha-kongi/) · **Email:** [harithakongi@gmail.com](mailto:harithakongi@gmail.com)
 
-<sub>Based in Nandyal, Andhra Pradesh, India · Building, learning, and improving one project at a time.</sub>
+<sub>Based in Guntakal, Andhra Pradesh, India · Building, learning, and improving one project at a time.</sub>
