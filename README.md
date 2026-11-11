@@ -1,3 +1,4 @@
+# Haritha Kongi — GitHub Profile
 
 <div align="center">
 
@@ -18,7 +19,8 @@
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarithaKongi&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+<!-- UPDATED GITHUB STREAK COUNTER -->
+<img src="https://streak-stats.demolab.com?user=HarithaKongi&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" height="160" alt="Haritha Kongi GitHub Streak" />
 
 <br/><br/>
 
