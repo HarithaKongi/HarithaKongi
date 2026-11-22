@@ -22,7 +22,7 @@
 
 <!-- UPDATED GITHUB STREAK COUNTER -->
 <img
-src="https://streak-stats.demolab.com/?user=HarithaKongi&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata"
+src="./profile/streak.svg"
 height="160"
 alt="Haritha Kongi GitHub Streak"
 />
